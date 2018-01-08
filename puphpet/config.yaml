@@ -244,7 +244,7 @@ apache:
             ssl_cipher: ''
             directories:
                 avd_ieggwvvpl86l:
-                    path: /var/www/awesome/web
+                    path: /var/www/
                     directoryindex: 'index.php app.dev'
                     options:
                         - Indexes
